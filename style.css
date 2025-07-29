@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  border-top: 10px #1098ad solid;
+}
+
+header {
+  background-color: #f7f7f7;
+}
+
+.title {
+  color: #1098ad;
+}
